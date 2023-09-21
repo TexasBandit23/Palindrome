@@ -1,3 +1,9 @@
+/* Author: Tejas Pandit
+ * Last Edited: 9/21/2023
+ * This program creates a palindrome detector. The user inserts a phrase, and the program outputs whether it is a palindrome or not
+ * Only numbers and letters are checked when determining if a phrase is a palindrome
+*/ 
+
 #include <iostream>
 #include <cstring>
 
